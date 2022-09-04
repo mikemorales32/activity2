@@ -1,10 +1,8 @@
 body{
-     .fill{
-        border-radius: 8px;
-        width: 400px;
-        height: 400px; 
+     #fill{
+        object-fit: fill;
     }
-    ul.navbar{
+    #navbar{
     list-style-type: none;
     margin: 0;
     padding: 0;

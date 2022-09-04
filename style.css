@@ -14,17 +14,17 @@ body{
     padding: 4px;
  }  
  
- img#qon {
+ img#QON {
     float: right;
  }
 
 
-img#garden {
+img#GARDEN {
     float: right;
 }
 
 
-p#header {
+p#HEADER {
     text-decoration-style: underline;
     font-size: 25;
 }

@@ -5,9 +5,9 @@ body{
     padding: 0;
   }    
   img {
-    height: auto;
+    max-height: auto;
 
-    width: 400px;
+    max-width: 400px;
       }
   #header {
     text-size-adjust: 27px;

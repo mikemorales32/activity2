@@ -9,7 +9,13 @@ body{
 
     max-width: 400px;
       }
-  #header {
+  .right {
+    float: right;
+  }    
+  .left {
+    float: left;
+  }
+  .header {
     text-size-adjust: 27px;
     text-decoration: underline;
  }     

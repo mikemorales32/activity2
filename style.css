@@ -1,10 +1,12 @@
 body{
-     #fill{
-        object-fit: fill;
-    }
-    #navbar{
+    ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
   }    
+  img {
+    height: auto;
+
+    width: 400px;
+}
 }

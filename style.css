@@ -1,5 +1,5 @@
 body{
-    ul {
+    ul{
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -8,5 +8,9 @@ body{
     height: auto;
 
     width: 400px;
-}
+      }
+ #header {
+    text-size-adjust: 27px;
+    text-decoration: underline;
+ }     
 }

@@ -9,19 +9,19 @@ body{
     }
 
  img {
-    height: 150px;
+    height: 80px;
 
-    width: 150px;
+    width: 80px;
 
     padding: 4px;
  }  
  
- img#QON {
+ #QON {
     float: right;
  }
 
 
-img#GARDEN {
+#GARDEN {
     float: right;
 }
 

@@ -14,23 +14,19 @@ body{
     padding: 4px;
  }  
  
- img{
-    #qon {
+ img#qon {
     float: right;
  }
-}
 
-img
-{
-    #garden {
+
+img#garden {
     float: right;
 }
-}
 
-p{
-    header {
+
+p#header {
     text-decoration-style: underline;
     font-size: 25;
 }
-}
+
 }

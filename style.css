@@ -1,6 +1,8 @@
 body{
-    img{
+    img {
         border-radius: 8px;
+        width: 400px;
+        height: 400px; 
     }
     ul.navbar{
     list-style-type: none;

@@ -13,9 +13,11 @@ body{
   .header {
     text-decoration: underline;
  }  
- div img {
+ img {
     max-height: auto;
 
     max-width: 400px;
+
+    padding: 4px;
  }    
 }

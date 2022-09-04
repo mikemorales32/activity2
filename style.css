@@ -7,23 +7,23 @@ body{
     }
 
  img {
-    max-height: 400px;
+    max-height: 150px;
 
-    max-width: 400px;
+    max-width: 150px;
 
     padding: 4px;
  }  
  
- img #qon {
+ img#qon {
     float: right;
  }
 
-img #garden {
+img#garden {
     float: right;
 }
 
 p#header {
-    text-decoration: underline;
-    text-size-adjust: 25;
+    text-decoration-style: underline;
+    font-size: 25;
 }
 }

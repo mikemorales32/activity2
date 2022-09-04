@@ -1,5 +1,5 @@
 body{
-    
+
     ul{
     list-style-type: none;
     margin: 0;
@@ -14,15 +14,15 @@ body{
     padding: 4px;
  }  
  
- #qon {
+ img#qon {
     float: right;
  }
 
-#garden {
+img#garden {
     float: right;
 }
 
-#header {
+p#header {
     text-decoration: underline;
 }
 }

@@ -1,23 +1,28 @@
 body{
+    
     ul{
     list-style-type: none;
     margin: 0;
     padding: 0;
-  }    
-  .right {
-    float: right;
-  }    
-  .left {
-    float: left;
-  }
-  .header {
-    text-decoration: underline;
- }  
+    }
+
  img {
-    max-height: auto;
+    max-height: 400px;
 
     max-width: 400px;
 
     padding: 4px;
- }    
+ }  
+ 
+ #qon {
+    float: right;
+ }
+
+#garden {
+    float: right;
+}
+
+#header {
+    text-decoration: underline;
+}
 }
